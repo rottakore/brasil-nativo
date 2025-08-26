@@ -8,6 +8,6 @@ Para nossos amigos utilizando Linux, este leiaute já está disponível por padr
 
 Caso precise de mais informações, pesquise, por favor.
 
-Leiaute de teclado neste repositório foi criado por Ari Caldeira.
+Leiaute de teclado neste repositório foi criado por Ari Caldeira, caso o mesmo deseje que este repositório seja excluido ou alterado, basta entrar em contato comigo por [e-mail](mailto:lu.prudper@gmail.com)
 
 #### Clique [aqui](https://github.com/rottakore/brasil-nativo/raw/refs/heads/main/arquivos.zip) para baixar, ou clique em "arquivos.zip" e baixe-o.
