@@ -2,7 +2,11 @@ Em busca pela configuração perfeita de minha máquina, tombei no tópico de te
 
 Há outros dois repositórios - [este](https://github.com/nandoflorestan/nandvorak) e [este](https://github.com/nandoflorestan/teclado-br) - que podem ser confundidos com este repositório atual, porém estes repositórios do Nando Florestan contém leiautes criados por ele mesmo baseados no leiaute DVORAK, mantendo maior parte da configuração de teclas focados no idioma inglês, diferente do leiaute criado por Ari Caldeira que, mesmo baseando-se em alguns conceitos do leiaute DVORAK, reformulou as teclas completamente para agradar exclusivamente a digitação em português e brasileiro.
 
-Ao baixar os arquivos, irá se deparar com pastas PT (Portugal) e BR (Brasil), basta escolher o que desejar. Os padrões são PT-Nativo e BR-Nativo, enquanto os outros são alternativas. Para instalar, basta executar o setup.exe ou o arquivo .msi que corresponda com o tipo de arquitetura do seu processador e então ir nas configurações de idioma e região do Windows e configurar como padrão o leiaute instalado. Caso precise de mais informações, pesquise, por favor.
+Ao baixar os arquivos, irá se deparar com pastas PT (Portugal) e BR (Brasil), basta escolher o que desejar. Os padrões são PT-Nativo e BR-Nativo, enquanto os outros são alternativas. Para instalar, basta executar o setup.exe ou o arquivo .msi que corresponda com o tipo de arquitetura do seu processador e então ir nas configurações de idioma e região do Windows e configurar como padrão o leiaute instalado.
+
+Para nossos amigos utilizando Linux, este leiaute já está disponível por padrão nas configurações de teclado do seu sistema, basta seleciona-lo (geralmente com o nome de br-nativo ou similar).
+
+Caso precise de mais informações, pesquise, por favor.
 
 Leiaute de teclado neste repositório foi criado por Ari Caldeira.
 
