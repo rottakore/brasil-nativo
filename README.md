@@ -10,6 +10,6 @@ Criei um arquivo chamado [monkeytype.json](https://github.com/rottakore/brasil-n
 
 Caso precise de mais informações, pesquise, por favor.
 
-Leiaute de teclado neste repositório foi criado por Ari Caldeira, caso o mesmo deseje que este repositório seja excluido ou alterado, basta entrar em contato comigo por [e-mail](mailto:lu.prudper@gmail.com)
+Leiautes de teclado neste repositório foram criados por Ari Caldeira, caso o mesmo deseje que este repositório seja excluido ou alterado, basta entrar em contato comigo por [e-mail](mailto:lu.prudper@gmail.com)
 
 #### Clique [aqui](https://github.com/rottakore/brasil-nativo/raw/refs/heads/main/arquivos.zip) para baixar, ou clique em "arquivos.zip" e baixe-o.
