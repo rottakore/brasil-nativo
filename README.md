@@ -6,6 +6,8 @@ Ao baixar os arquivos, irá se deparar com pastas PT (Portugal) e BR (Brasil), b
 
 Para nossos amigos utilizando Linux, este leiaute já está disponível por padrão nas configurações de teclado do seu sistema, removendo a necessidade de baixa-lo por aqui. Para aplica-lo em seu sistema Linux, basta seleciona-lo (geralmente com o nome de br-nativo ou similar).
 
+Criei um arquivo [.json](blob:https://github.com/ebfbc65d-e993-4661-94d4-d0e4d6c39c27) contendo configurações que você pode importar no site [MonkeyType](https://www.monkeytype.com) que facilita o treino de digitação para este tipo de leiaute.
+
 Caso precise de mais informações, pesquise, por favor.
 
 Leiaute de teclado neste repositório foi criado por Ari Caldeira, caso o mesmo deseje que este repositório seja excluido ou alterado, basta entrar em contato comigo por [e-mail](mailto:lu.prudper@gmail.com)
