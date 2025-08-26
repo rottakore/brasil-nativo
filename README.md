@@ -2,4 +2,6 @@ Em busca pela configuração perfeita de minha máquina, tombei no tópico de te
 
 Há outros dois repositórios - [este](https://github.com/nandoflorestan/nandvorak) e [este](https://github.com/nandoflorestan/teclado-br) - que podem ser confundidos com este repositório atual, porém estes repositórios do Nando Florestan contém leiautes criados por ele mesmo baseados no leiaute DVORAK, mantendo maior parte da configuração de teclas focados no idioma inglês, diferente do leiaute criado por Ari Caldeira que, mesmo baseando-se em alguns conceitos do leiaute DVORAK, reformulou as teclas completamente para agradar exclusivamente a digitação em português e brasileiro.
 
+Caso precise de mais informações, pesquise, por favor.
+
 Leiaute de teclado neste repositório foi criado por Ari Caldeira.
