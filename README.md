@@ -6,4 +6,4 @@ Caso precise de mais informações, pesquise, por favor.
 
 Leiaute de teclado neste repositório foi criado por Ari Caldeira.
 
-### Clique [aqui](https://github.com/rottakore/brasil-nativo/raw/refs/heads/main/arquivos.zip) para baixar, ou clique em "arquivos.zip" e baixe-o.
+#### Clique [aqui](https://github.com/rottakore/brasil-nativo/raw/refs/heads/main/arquivos.zip) para baixar, ou clique em "arquivos.zip" e baixe-o.
