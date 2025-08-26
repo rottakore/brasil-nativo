@@ -1,2 +1,3 @@
-# brasil-nativo
-Repositório criado para preservar o leiaute de teclado brasileiro nativo.
+Em busca pela configuração perfeita de minha máquina, tombei no tópico de teclados e me deparei com o vislumbre da existência de um leiaute cujo foi criado para melhorar a digitação de brasileiros e portugueses. Após muita pesquisa em vários sites já extintos, finalmente encontrei os arquivos de instalação para este tal leiaute neste [site](http://www.xahlee.info/kbd/pt-nativo_keyboard_layout.html) e me assustei com o fato de um arquivo tão importante estar a beira de se tornar uma mídia extinta. Por conta disso, resolvi adicionar mais um ponto de preservação destes arquivos a fim de impedir que seja perdido.
+
+Leiaute de teclado criado por Ari Caldeira.
