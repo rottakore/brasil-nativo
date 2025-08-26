@@ -4,7 +4,7 @@ Há outros dois repositórios - [este](https://github.com/nandoflorestan/nandvor
 
 Ao baixar os arquivos, irá se deparar com pastas PT (Portugal) e BR (Brasil), basta escolher o que desejar. Os padrões são PT-Nativo e BR-Nativo, enquanto os outros são alternativas. Para instalar, basta executar o setup.exe ou o arquivo .msi que corresponda com o tipo de arquitetura do seu processador e então ir nas configurações de idioma e região do Windows e configurar como padrão o leiaute instalado.
 
-Para nossos amigos utilizando Linux, este leiaute já está disponível por padrão nas configurações de teclado do seu sistema, basta seleciona-lo (geralmente com o nome de br-nativo ou similar).
+Para nossos amigos utilizando Linux, este leiaute já está disponível por padrão nas configurações de teclado do seu sistema, removendo a necessidade de baixa-lo por aqui. Para aplica-lo em seu sistema Linux, basta seleciona-lo (geralmente com o nome de br-nativo ou similar).
 
 Caso precise de mais informações, pesquise, por favor.
 
