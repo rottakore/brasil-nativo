@@ -6,7 +6,7 @@ Ao baixar os arquivos, irá se deparar com pastas PT (Portugal) e BR (Brasil), b
 
 Para nossos amigos utilizando Linux, este leiaute já está disponível por padrão nas configurações de teclado do seu sistema, removendo a necessidade de baixa-lo por aqui. Para aplica-lo em seu sistema Linux, basta seleciona-lo (geralmente com o nome de br-nativo ou similar).
 
-Criei um arquivo [.json](https://github.com/rottakore/brasil-nativo/blob/main/monkeytype.json) contendo configurações que você pode importar no site [MonkeyType](https://www.monkeytype.com) que facilita o treino de digitação para este tipo de leiaute.
+Criei um arquivo chamado [monkeytype.json](https://github.com/rottakore/brasil-nativo/blob/main/monkeytype.json) contendo configurações que você pode importar no site [MonkeyType](https://www.monkeytype.com) que facilita o treino de digitação para este tipo de leiaute.
 
 Caso precise de mais informações, pesquise, por favor.
 
